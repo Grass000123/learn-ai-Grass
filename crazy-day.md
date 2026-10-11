@@ -8,9 +8,9 @@
 | 你这瓜保熟吗 | 鬼畜 |
 | 崩铁 | 游戏 |
 ##### 玩游戏
-![游戏抽卡](./微信圖片_20261011104218.jpg)
-###### 我的心情
-<html>
-      <head>
-      </head>
+<img width="2670" height="1200" alt="微信圖片_20261011104218" src="https://github.com/user-attachments/assets/9768e07a-a0c6-47f3-82f8-943e480145b2" />
+  
+    <html>
+      <body>
+      </body>
     </html>
